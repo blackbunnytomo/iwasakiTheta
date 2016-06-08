@@ -1,0 +1,158 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<title>test</title>
+<script src="oct_to_bin.js"></script>
+</head>
+<body>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!--peige setting-->
+
+<script src="kadai1.js"></script>
+<meta http-equiv="content-type" content="text/html; charset="UTF-8" />
+<meta http-equiv="Content-style-Type" content="text/css" />
+<link href="◯◯.css" rel="stylesheet" type="text/css">
+  <title></title>
+</head>
+<body>
+<!--main paige-->
+	<img src="../imagesbanner88_31.gif" alt="バナー88×31px" />
+	<a href="index.html">TOP</a></li>
+
+</body>
+</html>
+
+<div id="animeation1" style="position:absolute; top:40px; left:40px;">
+    <a><img src="img/anime.gif" width="100%" height="100%">
+    </a>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!--peige setting-->
+<meta http-equiv="content-type" content="text/html; charset="UTF-8" />
+<meta http-equiv="Content-style-Type" content="text/css" />
+  <title></title>
+</head>
+<body>
+<!--main paige-->
+	<img src="../../img\img1.jpg" width="100% heigth="100%""alt="testimg" />
+	<a href="https://google.co.jp">Googleへ</a></li>
+<div id="text">
+  <p>
+  　ここにテキストをあああああああああああありまあ
+  </p>
+</div>
+
+<script type="text/javascript">
+<!--
+document.write('Hello World');
+//-->
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset="UTF-8" />
+<meta http-equiv="Content-style-Type" content="text/css" />
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.8)" />
+<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="stylesheet" href="css/common.css" type="text/css" />
+<title>あなたのサイト名などお書きください</title>
+</head>
+<body>
+<div id="wrapper">
+   <div id="menu" class="line">
+      <h1 class="title">YOUR SITE TITLE*</h1>
+      <ul>
+      <li><a href="index.html">TOP</a></li>
+      <li><a href="index.html">PROFILE</a></li>
+      <li><a href="index.html">DIARY</a></li>
+      <li><a href="index.html">BBS</a></li>
+      <li><a href="index.html">LINK</a></li>
+      <li><a href="index.html">MAIL</a></li>
+      </ul>
+   </div>
+   <div id="contentsWrap">
+      <div id="contents" class="line">
+      <h2>管理人より</h2>
+      <p>
+      以前別サイトで配布していたものをリメイクしました。<br />
+      html4.01 テーブルレイアウト→xhtml1.0 CSSレイアウトに変更しました。<br />
+      全体的に余白を多く取り、シンプルなデザインに仕上げました。<br />
+      <br />
+      おまけで入口ページを作成しました。<br />
+      ご必要な方はお使いください。<br />
+      <a href="enter.html">サンプルはこちらから</a><br />
+      <br />
+      一部、IEのバグにより、Firefox用とIE6用にCSSを書き換えている部分がありますので、その部分にはコメントしてあります。<br />
+      <br />
+      一部IEの拡張機能を使用しております。<br />
+      トランジション効果により、ページが遷移する（切り替わる）ときにふわっとした感じになります。<br />
+      </p>
+      <h2>おまけ画像</h2>
+      <p>
+      おまけとして、バナーとファビコン画像をつけております。<br />
+      バナー 88×31pxと31×31px<br />
+      <img src="../imagesbanner88_31.gif" alt="バナー88×31px" /> <img src="../imagesbanner31_31.gif" alt="バナー88×31px" /><br />
+      ファビコン<br />
+      <img src="../imagesfavicon.ico" alt="ファビコン" /><br />
+      《ATTENTION!!》<br />
+      IE6以前はファビコンに対応しておりませんので、IE6以前のブラウザで閲覧されている方は上の画像は表示されません。<br />
+      IE7からは対応すると思います。<br />
+      </p>
+      <h2>画像について</h2>
+      <p>
+      イラスト画像は<a href="http://shimizumari.com/fuwa2li/" target="_blank">ふわふわ。り</a>様からお借りしました。<br />
+      <strong>『material ふわふわ。り』という表示およびリンクは消さないようにお願いします。</strong>
+      </p>
+      <h2>カスタマイズについて</h2>
+      <p>
+      カスタマイズはご自由になさってください。<br />
+      制限はありません。<br />
+      </p>
+      <p>
+      その他、不具合などございましたら<br />
+      <a href="http://www.coolwebwindow.com/" target="_blank">CoolWebWindow</a>にお知らせください。<br />
+      </p>
+      </div>
+   </div>
+   <div id="footer">
+      designed by <a href="http://www.coolwebwindow.com/">CoolWebWindow</a> / material <a href="http://shimizumari.com/fuwa2li/">ふわふわ。り</a><br />
+      Copyright (C) your site name ALL Rights Reserved.
+   </div><!-- footer end -->
+</div><!-- wrapper end -->
+</body>
+</html>
